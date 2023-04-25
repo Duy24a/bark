@@ -1,0 +1,4 @@
+text_prompt = """
+    पेशेवरों का मानना है कि एक्शन फिल्में नौसिखियों का खेल नहीं हैं 
+"""
+audio_array = generate_audio(text_prompt)
